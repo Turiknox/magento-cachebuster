@@ -1,0 +1,10 @@
+{
+    "name": "turiknox/magento-cachebuster",
+    "type": "magento-module",
+    "license": "MIT",
+    "description": "A simple Magento module that will force the browser to reload CSS and JS files by adding a query parameter.",
+    "homepage": "https://github.com/turiknox/magento-cachebuster",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    } 
+}

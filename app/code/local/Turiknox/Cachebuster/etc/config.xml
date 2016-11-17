@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <blocks>
+            <turiknox_cachebuster>
+                <class>Turiknox_Cachebuster_Block</class>
+            </turiknox_cachebuster>
+            <page>
+                <rewrite>
+                    <html_head>Turiknox_Cachebuster_Block_Page_Html_Head</html_head>
+                </rewrite>
+            </page>
+        </blocks>
+        <helpers>
+            <turiknox_cachebuster>
+                <class>Turiknox_Cachebuster_Helper</class>
+            </turiknox_cachebuster>
+        </helpers>
+    </global>
+    <default>
+        <dev>
+            <cachebuster>
+                <custom_suffix>123</custom_suffix>
+            </cachebuster>
+        </dev>
+    </default>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Turiknox_Cachebuster>
+            <codePool>local</codePool>
+            <active>true</active>
+        </Turiknox_Cachebuster>
+    </modules>
+</config>
