@@ -1,4 +1,13 @@
 <?php
+/*
+ * Turiknox_Cachebuster
+
+ * @category   Turiknox
+ * @package    Turiknox_Cachebuster
+ * @copyright  Copyright (c) 2017 Turiknox
+ * @license    https://github.com/Turiknox/magento-cachebuster/blob/master/LICENSE.md
+ * @version    1.0.1
+ */
 class Turiknox_Cachebuster_Block_Page_Html_Head extends Mage_Page_Block_Html_Head
 {
     /**
