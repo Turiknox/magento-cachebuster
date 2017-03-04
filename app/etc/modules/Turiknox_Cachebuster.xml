@@ -13,7 +13,7 @@
 <config>
     <modules>
         <Turiknox_Cachebuster>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
             <active>true</active>
         </Turiknox_Cachebuster>
     </modules>
